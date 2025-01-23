@@ -56,7 +56,6 @@ src/Liny.Core/Models/AudienceGroupJobType.cs
 src/Liny.Core/Models/AudienceGroupPermission.cs
 src/Liny.Core/Models/AudienceGroupStatus.cs
 src/Liny.Core/Models/AudienceGroupType.cs
-src/Liny.Core/Models/AudienceMatchMessagesRequest.cs
 src/Liny.Core/Models/AudienceRecipient.cs
 src/Liny.Core/Models/AudioMessage.cs
 src/Liny.Core/Models/AudioMessageContent.cs

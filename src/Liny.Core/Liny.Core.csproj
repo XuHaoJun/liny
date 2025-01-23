@@ -9,7 +9,7 @@
         <Version>1.0.0</Version>
         <AssemblyName>Liny.Core</AssemblyName>
         <PackageId>Liny.Core</PackageId>
-        <UserSecretsId>5bf53257-e398-4fee-ae58-a3cd44480198</UserSecretsId>
+        <UserSecretsId>5c26341f-690e-426e-bdf7-ef5c677341d0</UserSecretsId>
         <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
         <DockerfileContext>..\..</DockerfileContext>
     </PropertyGroup>
